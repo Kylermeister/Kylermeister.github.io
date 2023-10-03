@@ -1,4 +1,4 @@
-# Kylermesiter.githb.io
+# Kylermesiter.github.io
 
 This repo just contains a basic github pages file I made for fun, maybe i'll put some more effort into it at another date.
 
